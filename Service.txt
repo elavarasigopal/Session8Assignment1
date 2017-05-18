@@ -1,0 +1,10 @@
+Creating a service 
+
+	Open cmd 
+	C:\Projects>cd angularproject1
+
+	C:\Projects\AngularProject1>ng generate service dataservice
+	installing service
+  	create src\app\dataservice.service.spec.ts
+  	create src\app\dataservice.service.ts
+  Check the Issue tab for screen shots and outputs
